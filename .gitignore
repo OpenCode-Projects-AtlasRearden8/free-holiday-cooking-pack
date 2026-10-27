@@ -1,3 +1,9 @@
-printables/
-__pycache__/
+*.pyc
 .DS_Store
+.env
+.env.*
+.venv/
+__pycache__/
+dist/*.tmp
+node_modules/
+printables/
